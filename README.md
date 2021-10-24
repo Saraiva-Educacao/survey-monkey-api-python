@@ -1,7 +1,7 @@
 # survey-monkey-api-python
 
 
-Script to ingest Survey Monkey (SM) data and save tables in JSON files. <br>
+Script to ingest Survey Monkey (SM) data and save tables in JSON files in local directory. <br>
 For more information about the API endpoints of SM, please refer to
 [documentation](https://developer.surveymonkey.com/api/v3/).
 

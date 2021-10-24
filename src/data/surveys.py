@@ -12,7 +12,7 @@ class DataSurveys(SurveyMonkeyAPI):
         self.length_all_surveys_ids = len(self.all_surveys_ids)
 
     def update_sets_surveys(self, current_id, current_survey):
-        """Extract more information to update table sets_surveys by enpoint
+        """Extract more information to update table all_surveys by enpoint
         'https://api.surveymonkey.com/v3/surveys/{survey_id}/details'
 
         Args:
