@@ -33,7 +33,7 @@ class SurveyMonkeyAPI:
         The data is presented in pages with a max of 100 surveys (items) per page.
 
         Returns:
-            list[dict]: Main information about every survey in SM account.
+            list[dict]: Main information about every survey in SM account of inmterest.
         """
 
         if self.all_surveys:
