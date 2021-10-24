@@ -64,3 +64,8 @@ The default in <i> api.py </i> is to collect and insert the data in following sc
 ## PS:
 <li> When 'item_id' and 'item_label' = Not apply is because this question doesn't have item to evaluate/rating <br> </li>
 <li> When 'answer' = Sensitive data is because this answer is the CPF of person respondent <br> </li>
+
+## Running
+```
+python main.py
+```
