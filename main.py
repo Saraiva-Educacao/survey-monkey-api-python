@@ -36,6 +36,7 @@ def main(request=None):
             with open(f'{table}.json', 'w+', encoding='utf-8') as t:
                 json.dump(table, t, ensure_ascii=False, indent=4)
 
+            print('Loading schema...')
             with open(f'{table}_schema.json', 'w+', encoding='utf-8') as s:
                 json.dump(schema, s, ensure_ascii=False, indent=4)
 
