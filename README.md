@@ -1,15 +1,16 @@
 # survey-monkey-api-python
 
 
-Script to handle data from Survey Monkey (SM) data and save tables in JSON files in local directory. <br>
+Script to handle data from Survey Monkey (SM) data and save tables an schemas of tables in JSON files 
+in local directory. <br>
 For more information about the API endpoints of SM, please refer to
 [documentation](https://developer.surveymonkey.com/api/v3/).
 
 
 ## Development Environment
 
-To create the development environment it's recommended to use conda.
-
+To create the development environment it's recommended to use conda.<br>
+<br>
 Run the following commands to get the environment ready
 
 ```
@@ -25,9 +26,10 @@ export SM_ACCESS_TOKEN='YOUR TOKEN'
 ```
 
 ## Running
-There is a function that collects data for all surveys in SM account of interest. 
-The SM account of interest need to be a paid account to access endpoint with details of responses.
-The default in <i> api.py </i> is to collect and insert the data in following schema tables:
+There is a function that collects data for all surveys in SM account of interest. <br>
+The SM account of interest need to be a paid account to access endpoint with details of responses. <br>
+The default in <i> api.py </i> is to collect and insert the data in JSON files for each table and for each schema, as 
+following:<br>
 
 ### Table Surveys
 <li> 'survey_id': unique ID of the interest survey <br> </li>

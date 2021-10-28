@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": "111111111",
+            "title": "Pesquisa Random 1",
+            "nickname": "Random1",
+            "href": "https://api.surveymonkey.com/v3/surveys/111111111"
+        },
+        {
+            "id": "111111112",
+            "title": "Pesquisa Random 2",
+            "nickname": "Random2",
+            "href": "https://api.surveymonkey.com/v3/surveys/111111112"
+        }
+    ],
+    "per_page": 100,
+    "page": 1,
+    "total": 2,
+    "links": {
+        "self": "https://api.surveymonkey.com/v3/surveys?page=1&per_page=100",
+        "next": "https://api.surveymonkey.com/v3/surveys?page=2&per_page=100",
+        "last": "https://api.surveymonkey.com/v3/surveys?page=2&per_page=100"
+    }
+}

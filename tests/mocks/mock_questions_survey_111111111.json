@@ -1,0 +1,203 @@
+{
+    "title": "Pesquisa Random 1",
+    "nickname": "Random1",
+    "language": "pt-br",
+    "folder_id": "0",
+    "category": "",
+    "question_count": 2,
+    "page_count": 1,
+    "response_count": 2,
+    "date_created": "2021-10-07T14:20:00",
+    "date_modified": "2021-10-15T19:14:00",
+    "id": "111111111",
+    "buttons_text": {
+        "next_button": "Pr\u00f3x.",
+        "prev_button": "Anter.",
+        "done_button": "Clique aqui para enviar sua resposta!",
+        "exit_button": ""
+    },
+    "is_owner": true,
+    "footer": true,
+    "custom_variables": {},
+    "href": "https://api.surveymonkey.com/v3/surveys/111111111",
+    "analyze_url": "https://www.surveymonkey.com/analyze/AAAA_AHBDJHYEjgshfgrhgfdbwj934837482438hfhUUU_99",
+    "edit_url": "https://www.surveymonkey.com/create/?sm=AAAA_AHBDJHYEjgshfgrhgfdbwj934837482438hfhUUU_99",
+    "collect_url": "https://www.surveymonkey.com/collect/list?sm=AAAA_AHBDJHYEjgshfgrhgfdbwj934837482438hfhUUU_99",
+    "summary_url": "https://www.surveymonkey.com/summary/AAAA_AHBDJHYEjgshfgrhgfdbwj934837482438hfhUUU_99",
+    "preview": "https://www.surveymonkey.com/r/Preview/?sm=BHghFhjjF_9HJGSVhdvgdvgkfdhgkvhfvhghdv86435vgd_4FnbdjbcbhCFfyCVTCghv",
+    "pages": [
+        {
+            "title": "",
+            "description": "<div style=\"text-align: center;\"><span style=\"color: #6c55a2;\"><strong>Voc\u00ea precisa de\u00a03 minutos</strong></span></div>\n<div style=\"text-align: center;\"><br></div>\n<div style=\"text-align: center;\"><span style=\"color: #6c55a2;\"><strong>Vamos l\u00e1?</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"color: #6c55a2;\"><strong></strong></span></div>",
+            "position": 1,
+            "question_count": 2,
+            "id": "111111111",
+            "href": "https://api.surveymonkey.com/v3/surveys/111111111/pages/111111111",
+            "questions": [
+                {
+                    "id": "111111111",
+                    "position": 1,
+                    "visible": true,
+                    "family": "matrix",
+                    "subtype": "rating",
+                    "layout": {
+                        "bottom_spacing": 0,
+                        "col_width": 80,
+                        "col_width_format": "percent",
+                        "left_spacing": 0,
+                        "num_chars": null,
+                        "num_lines": null,
+                        "position": "new_row",
+                        "right_spacing": 0,
+                        "top_spacing": 0,
+                        "width": 100,
+                        "width_format": "percent"
+                    },
+                    "sorting": null,
+                    "required": {
+                        "text": "Esta pergunta exige uma resposta.",
+                        "type": "all",
+                        "amount": "0"
+                    },
+                    "validation": null,
+                    "forced_ranking": false,
+                    "headings": [
+                        {
+                            "heading": "Qual \u00e9 a probabilidade de voc\u00ea recomendar Linkin Park a um(a) amigo(a) ou colega?"
+                        }
+                    ],
+                    "href": "https://api.surveymonkey.com/v3/surveys/111111111/pages/111111111/questions/111111111",
+                    "answers": {
+                        "rows": [
+                            {
+                                "position": 1,
+                                "visible": true,
+                                "text": "",
+                                "id": "111111111"
+                            }
+                        ],
+                        "choices": [
+                            {
+                                "position": 1,
+                                "visible": true,
+                                "text": "Nem um pouco prov\u00e1vel - 0",
+                                "id": "1111111111",
+                                "is_na": false,
+                                "weight": -100,
+                                "description": "Nem um pouco prov\u00e1vel"
+                            },
+                            {
+                                "position": 2,
+                                "visible": true,
+                                "text": "1",
+                                "id": "1111111112",
+                                "is_na": false,
+                                "weight": -100,
+                                "description": ""
+                            },
+                            {
+                                "position": 3,
+                                "visible": true,
+                                "text": "2",
+                                "id": "1111111113",
+                                "is_na": false,
+                                "weight": -100,
+                                "description": ""
+                            },
+                            {
+                                "position": 4,
+                                "visible": true,
+                                "text": "3",
+                                "id": "1111111114",
+                                "is_na": false,
+                                "weight": -100,
+                                "description": ""
+                            },
+                            {
+                                "position": 5,
+                                "visible": true,
+                                "text": "4",
+                                "id": "1111111115",
+                                "is_na": false,
+                                "weight": -100,
+                                "description": ""
+                            },
+                            {
+                                "position": 6,
+                                "visible": true,
+                                "text": "5",
+                                "id": "1111111116",
+                                "is_na": false,
+                                "weight": -100,
+                                "description": ""
+                            },
+                            {
+                                "position": 7,
+                                "visible": true,
+                                "text": "6",
+                                "id": "1111111117",
+                                "is_na": false,
+                                "weight": -100,
+                                "description": ""
+                            },
+                            {
+                                "position": 8,
+                                "visible": true,
+                                "text": "7",
+                                "id": "1111111118",
+                                "is_na": false,
+                                "weight": 0,
+                                "description": ""
+                            },
+                            {
+                                "position": 9,
+                                "visible": true,
+                                "text": "8",
+                                "id": "1111111119",
+                                "is_na": false,
+                                "weight": 0,
+                                "description": ""
+                            },
+                            {
+                                "position": 10,
+                                "visible": true,
+                                "text": "9",
+                                "id": "1111111120",
+                                "is_na": false,
+                                "weight": 100,
+                                "description": ""
+                            },
+                            {
+                                "position": 11,
+                                "visible": true,
+                                "text": "Extremamente prov\u00e1vel - 10",
+                                "id": "1111111121",
+                                "is_na": false,
+                                "weight": 100,
+                                "description": "Extremamente prov\u00e1vel"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "111111112",
+                    "position": 2,
+                    "visible": true,
+                    "family": "open_ended",
+                    "subtype": "essay",
+                    "layout": null,
+                    "sorting": null,
+                    "required": null,
+                    "validation": null,
+                    "forced_ranking": false,
+                    "headings": [
+                        {
+                            "heading": "Considerando sua vida acadêmica, você gostaria de especializar em qual área?"
+                        }
+                    ],
+                    "href": "https://api.surveymonkey.com/v3/surveys/111111111/pages/111111111/questions/111111112"
+                }
+            ]
+        }
+    ]
+}
